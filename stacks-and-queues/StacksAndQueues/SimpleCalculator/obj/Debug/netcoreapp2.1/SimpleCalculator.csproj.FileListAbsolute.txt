@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\bin\Debug\netcoreapp2.1\SimpleCalculator.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\SimpleCalculator\obj\Debug\netcoreapp2.1\SimpleCalculator.pdb

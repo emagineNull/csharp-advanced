@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\bin\Debug\netcoreapp2.1\TrafficJam.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\TrafficJam\obj\Debug\netcoreapp2.1\TrafficJam.pdb

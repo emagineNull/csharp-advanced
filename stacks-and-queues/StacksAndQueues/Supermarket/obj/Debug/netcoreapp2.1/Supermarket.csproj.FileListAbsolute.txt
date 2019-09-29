@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.pdb

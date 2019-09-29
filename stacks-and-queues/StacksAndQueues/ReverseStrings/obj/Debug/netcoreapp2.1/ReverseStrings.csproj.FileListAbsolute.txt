@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.pdb

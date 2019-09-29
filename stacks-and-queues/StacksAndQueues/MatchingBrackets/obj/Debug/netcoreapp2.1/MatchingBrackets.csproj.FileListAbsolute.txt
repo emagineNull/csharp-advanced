@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueues\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.pdb
