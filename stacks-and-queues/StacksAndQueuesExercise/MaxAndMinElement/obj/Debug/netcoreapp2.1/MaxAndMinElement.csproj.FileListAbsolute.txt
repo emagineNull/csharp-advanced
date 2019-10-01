@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\bin\Debug\netcoreapp2.1\MaxAndMinElement.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\bin\Debug\netcoreapp2.1\MaxAndMinElement.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\bin\Debug\netcoreapp2.1\MaxAndMinElement.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\bin\Debug\netcoreapp2.1\MaxAndMinElement.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\bin\Debug\netcoreapp2.1\MaxAndMinElement.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\obj\Debug\netcoreapp2.1\MaxAndMinElement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\obj\Debug\netcoreapp2.1\MaxAndMinElement.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\obj\Debug\netcoreapp2.1\MaxAndMinElement.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\obj\Debug\netcoreapp2.1\MaxAndMinElement.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\MaxAndMinElement\obj\Debug\netcoreapp2.1\MaxAndMinElement.pdb

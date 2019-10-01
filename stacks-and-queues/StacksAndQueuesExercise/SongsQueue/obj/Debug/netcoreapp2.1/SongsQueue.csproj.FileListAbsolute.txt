@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\bin\Debug\netcoreapp2.1\SongsQueue.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\bin\Debug\netcoreapp2.1\SongsQueue.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\bin\Debug\netcoreapp2.1\SongsQueue.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\bin\Debug\netcoreapp2.1\SongsQueue.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\bin\Debug\netcoreapp2.1\SongsQueue.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\obj\Debug\netcoreapp2.1\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\obj\Debug\netcoreapp2.1\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\obj\Debug\netcoreapp2.1\SongsQueue.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\obj\Debug\netcoreapp2.1\SongsQueue.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SongsQueue\obj\Debug\netcoreapp2.1\SongsQueue.pdb

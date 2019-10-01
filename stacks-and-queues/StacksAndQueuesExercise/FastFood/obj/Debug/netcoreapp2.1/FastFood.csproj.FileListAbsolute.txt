@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.1\FastFood.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.1\FastFood.pdb

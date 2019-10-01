@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\bin\Debug\netcoreapp2.1\BasicQueueOperations.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\BasicQueueOperations\obj\Debug\netcoreapp2.1\BasicQueueOperations.pdb
