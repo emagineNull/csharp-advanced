@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp2.1\SimpleTextEditor.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp2.1\SimpleTextEditor.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp2.1\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp2.1\SimpleTextEditor.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\netcoreapp2.1\SimpleTextEditor.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp2.1\SimpleTextEditor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp2.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp2.1\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp2.1\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp2.1\SimpleTextEditor.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\netcoreapp2.1\SimpleTextEditor.pdb
