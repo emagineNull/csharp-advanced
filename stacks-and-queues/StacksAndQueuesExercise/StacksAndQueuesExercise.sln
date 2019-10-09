@@ -21,9 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckTour", "TruckTour\Truc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedParantheses", "BalancedParantheses\BalancedParantheses.csproj", "{F1C8214A-1610-4F22-93C1-2FF1595B12E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{3631E802-483F-41D0-8686-9B4DFFE2B36D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{3631E802-483F-41D0-8686-9B4DFFE2B36D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossroads", "Crossroads\Crossroads.csproj", "{ED0D575E-7620-45A3-A171-4616B66B39F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crossroads", "Crossroads\Crossroads.csproj", "{ED0D575E-7620-45A3-A171-4616B66B39F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyRevolver", "KeyRevolver\KeyRevolver.csproj", "{F72C37B8-0E67-4148-A23A-48FBCC044FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CupsAndBottles", "CupsAndBottles\CupsAndBottles.csproj", "{6CD6C357-210C-47DF-A75C-EC1F09D70FDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{ED0D575E-7620-45A3-A171-4616B66B39F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED0D575E-7620-45A3-A171-4616B66B39F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED0D575E-7620-45A3-A171-4616B66B39F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72C37B8-0E67-4148-A23A-48FBCC044FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72C37B8-0E67-4148-A23A-48FBCC044FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72C37B8-0E67-4148-A23A-48FBCC044FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72C37B8-0E67-4148-A23A-48FBCC044FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD6C357-210C-47DF-A75C-EC1F09D70FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD6C357-210C-47DF-A75C-EC1F09D70FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD6C357-210C-47DF-A75C-EC1F09D70FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD6C357-210C-47DF-A75C-EC1F09D70FDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,77 +8,58 @@ namespace Crossroads
     {
         static void Main(string[] args)
         {
-            var greenLightDuration = int.Parse(Console.ReadLine());
-            var freeWindowDuration = int.Parse(Console.ReadLine());
+            var greenLightSeconds = int.Parse(Console.ReadLine());
+            var secondsPassCrossroad = int.Parse(Console.ReadLine());
 
-            var currentGreen = greenLightDuration;
-            var currentFreeWindow = freeWindowDuration;
+            var carsQueue = new Queue<string>();
 
-            var crash = ' ';
+            var counter = 0;
 
-            var road = new Queue<string>();
-
-            var totalCarsPassed = 0;
-            var flag = false;
-
-            var command = Console.ReadLine();
-
-            while (command != "END")
+            while (true)
             {
-                if (command != "green")
+                var car = Console.ReadLine();
+
+                var greenLights = greenLightSeconds;
+                var passSeconds = secondsPassCrossroad;
+
+                if (car == "END")
                 {
-                    road.Enqueue(command);
+                    Console.WriteLine($"Everyone is safe.{Environment.NewLine}" +
+                        $"{counter} total cars passed the crossroads.");
+                    return;
+                }
+
+                if (car == "green")
+                {
+                    while (greenLights > 0 && carsQueue.Count != 0)
+                    {
+
+                        var firstInQueue = carsQueue.Dequeue();
+                        greenLights -= firstInQueue.Count();
+                        if (greenLights >= 0)
+                        {
+                            counter++;
+                        }
+
+                        else
+                        {
+                            passSeconds += greenLights;
+                            if (passSeconds < 0)
+                            {
+                                Console.WriteLine($"A crash happened!{Environment.NewLine}" +
+                                    $"{firstInQueue} was hit at" +
+                                    $" {firstInQueue[firstInQueue.Length + passSeconds]}.");
+                                return;
+                            }
+                            counter++;
+                        }
+                    }
                 }
                 else
                 {
-                    var currentCar = road.Peek();
-
-                    while (true)
-                    {
-                        if (currentGreen - currentCar.Length >= 0)
-                        {
-                            currentGreen -= currentCar.Length;
-                            road.Dequeue();
-                            totalCarsPassed++;
-                        }
-                        else
-                        {
-                            break;
-                        }
-
-                        if (!road.Any())
-                        {
-                            currentCar = string.Empty;
-                            break;
-                        }
-
-                        currentCar = road.Peek();
-                    }
-                    if (freeWindowDuration > 0 && currentCar != string.Empty)
-                    {
-                        if (currentFreeWindow - currentCar.Length >= 0)
-                        {
-                            currentFreeWindow -= currentCar.Length;
-                            road.Dequeue();
-                            totalCarsPassed++;
-                        }
-                        else
-                        {
-                            crash = currentCar[Math.Abs(currentFreeWindow + currentGreen)];
-                            Console.WriteLine("A crash happened!");
-                            Console.WriteLine($"{currentCar} was hit at {crash}.");
-                            return;
-                        }
-                    }
+                    carsQueue.Enqueue(car);
                 }
-
-                currentGreen = greenLightDuration;
-                currentFreeWindow = freeWindowDuration;
-                command = Console.ReadLine();
             }
-
-            Console.WriteLine("Everyone is safe.");
-            Console.WriteLine($"{totalCarsPassed} total cars passed the crossroads.");
         }
     }
 }

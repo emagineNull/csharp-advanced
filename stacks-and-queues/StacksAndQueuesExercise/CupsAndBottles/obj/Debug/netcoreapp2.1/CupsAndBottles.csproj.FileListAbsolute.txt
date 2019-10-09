@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.1\CupsAndBottles.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.1\CupsAndBottles.pdb

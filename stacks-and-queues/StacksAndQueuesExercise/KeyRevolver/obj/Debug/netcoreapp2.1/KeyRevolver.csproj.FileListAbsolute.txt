@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\bin\Debug\netcoreapp2.1\KeyRevolver.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Stacks and Queues\StacksAndQueuesExercise\KeyRevolver\obj\Debug\netcoreapp2.1\KeyRevolver.pdb
