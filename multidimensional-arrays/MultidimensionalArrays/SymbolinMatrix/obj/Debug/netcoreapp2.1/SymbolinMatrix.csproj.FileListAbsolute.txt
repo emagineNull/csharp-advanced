@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\bin\Debug\netcoreapp2.1\SymbolinMatrix.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\bin\Debug\netcoreapp2.1\SymbolinMatrix.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\bin\Debug\netcoreapp2.1\SymbolinMatrix.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\bin\Debug\netcoreapp2.1\SymbolinMatrix.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\bin\Debug\netcoreapp2.1\SymbolinMatrix.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\obj\Debug\netcoreapp2.1\SymbolinMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\obj\Debug\netcoreapp2.1\SymbolinMatrix.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\obj\Debug\netcoreapp2.1\SymbolinMatrix.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\obj\Debug\netcoreapp2.1\SymbolinMatrix.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\SymbolinMatrix\obj\Debug\netcoreapp2.1\SymbolinMatrix.pdb

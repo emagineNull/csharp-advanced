@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp2.1\PrimaryDiagonal.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp2.1\PrimaryDiagonal.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp2.1\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp2.1\PrimaryDiagonal.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\netcoreapp2.1\PrimaryDiagonal.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp2.1\PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp2.1\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp2.1\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp2.1\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp2.1\PrimaryDiagonal.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\netcoreapp2.1\PrimaryDiagonal.pdb
