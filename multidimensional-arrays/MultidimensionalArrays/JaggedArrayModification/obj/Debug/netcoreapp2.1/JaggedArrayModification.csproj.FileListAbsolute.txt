@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\bin\Debug\netcoreapp2.1\JaggedArrayModification.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\JaggedArrayModification\obj\Debug\netcoreapp2.1\JaggedArrayModification.pdb

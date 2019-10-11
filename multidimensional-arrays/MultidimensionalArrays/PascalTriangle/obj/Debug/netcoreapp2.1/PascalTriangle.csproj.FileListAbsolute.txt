@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\bin\Debug\netcoreapp2.1\PascalTriangle.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArrays\PascalTriangle\obj\Debug\netcoreapp2.1\PascalTriangle.pdb

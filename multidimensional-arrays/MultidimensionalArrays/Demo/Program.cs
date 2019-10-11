@@ -44,6 +44,25 @@ namespace Demo
                     Console.WriteLine(initializedMatrix[row, col] + " ");
                 }
             }
+
+            Console.WriteLine();
+
+            int[] arr0 = new int[5];
+            int[] arr1 = new int[10];
+            int[] arr2 = new int[7];
+            int[] arr3 = new int[9];
+
+            int[][] arr = new int[4][];
+            arr[0] = new int[5];
+            arr[1] = new int[10];
+            arr[2] = new int[7];
+            arr[3] = new int[9];
+
+            arr[1][3] = 100;
+
+            Console.WriteLine(arr[1][3]);
+            Console.WriteLine(arr[1].Length);
+
         }
     }
 }
