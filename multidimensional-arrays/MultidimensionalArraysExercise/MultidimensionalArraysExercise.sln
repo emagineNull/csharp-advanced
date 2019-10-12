@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{FA6E15B7-38C0-40F4-9187-62BA92B47FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{9091CB50-91A0-4180-BB11-C749F33B144E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6E15B7-38C0-40F4-9187-62BA92B47FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6E15B7-38C0-40F4-9187-62BA92B47FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6E15B7-38C0-40F4-9187-62BA92B47FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6E15B7-38C0-40F4-9187-62BA92B47FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9091CB50-91A0-4180-BB11-C749F33B144E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9091CB50-91A0-4180-BB11-C749F33B144E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9091CB50-91A0-4180-BB11-C749F33B144E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9091CB50-91A0-4180-BB11-C749F33B144E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1D5B6D-9CA2-4DD5-BD86-F1AFB98A1B51}
+	EndGlobalSection
+EndGlobal

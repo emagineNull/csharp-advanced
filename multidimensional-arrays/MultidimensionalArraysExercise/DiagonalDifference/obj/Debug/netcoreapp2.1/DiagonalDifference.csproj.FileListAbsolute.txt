@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.pdb
