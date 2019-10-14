@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.1\Bombs.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.1\Bombs.pdb

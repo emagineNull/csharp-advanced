@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.1\MaximalSum.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.1\MaximalSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\bin\Debug\netcoreapp2.1\Miner.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\bin\Debug\netcoreapp2.1\Miner.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\bin\Debug\netcoreapp2.1\Miner.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\obj\Debug\netcoreapp2.1\Miner.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\obj\Debug\netcoreapp2.1\Miner.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\obj\Debug\netcoreapp2.1\Miner.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\obj\Debug\netcoreapp2.1\Miner.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\obj\Debug\netcoreapp2.1\Miner.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\Miner\obj\Debug\netcoreapp2.1\Miner.pdb

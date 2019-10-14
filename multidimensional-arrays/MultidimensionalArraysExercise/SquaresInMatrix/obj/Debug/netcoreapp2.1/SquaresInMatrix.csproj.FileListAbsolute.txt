@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.1\SquaresInMatrix.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.1\SquaresInMatrix.pdb

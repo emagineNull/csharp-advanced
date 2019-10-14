@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.pdb
