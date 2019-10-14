@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Multidimensional Arrays\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.pdb
