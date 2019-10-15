@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\bin\Debug\netcoreapp2.1\AverageStudentGrades.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\AverageStudentGrades\obj\Debug\netcoreapp2.1\AverageStudentGrades.pdb

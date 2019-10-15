@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.pdb

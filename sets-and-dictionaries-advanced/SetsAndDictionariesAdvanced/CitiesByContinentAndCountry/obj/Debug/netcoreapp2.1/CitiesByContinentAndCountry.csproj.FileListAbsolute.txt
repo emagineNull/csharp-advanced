@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictionariesAdvanced\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.pdb
