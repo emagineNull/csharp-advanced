@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\bin\Debug\netcoreapp2.1\TheVLogger.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\bin\Debug\netcoreapp2.1\TheVLogger.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\bin\Debug\netcoreapp2.1\TheVLogger.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\bin\Debug\netcoreapp2.1\TheVLogger.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\bin\Debug\netcoreapp2.1\TheVLogger.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\obj\Debug\netcoreapp2.1\TheVLogger.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\obj\Debug\netcoreapp2.1\TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\obj\Debug\netcoreapp2.1\TheVLogger.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\obj\Debug\netcoreapp2.1\TheVLogger.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\obj\Debug\netcoreapp2.1\TheVLogger.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\TheVLogger\obj\Debug\netcoreapp2.1\TheVLogger.pdb

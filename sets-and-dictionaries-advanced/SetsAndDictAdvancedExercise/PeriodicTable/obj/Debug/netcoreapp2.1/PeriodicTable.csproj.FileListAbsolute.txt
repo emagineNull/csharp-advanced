@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.pdb

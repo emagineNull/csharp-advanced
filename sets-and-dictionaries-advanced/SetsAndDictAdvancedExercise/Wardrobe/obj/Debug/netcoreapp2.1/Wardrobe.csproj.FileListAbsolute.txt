@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb

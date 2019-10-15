@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Sets and Dictionaries Advanced\SetsAndDictAdvancedExercise\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.pdb
