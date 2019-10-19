@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\bin\Debug\netcoreapp2.1\OddLines.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\bin\Debug\netcoreapp2.1\OddLines.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\bin\Debug\netcoreapp2.1\OddLines.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\bin\Debug\netcoreapp2.1\OddLines.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\bin\Debug\netcoreapp2.1\OddLines.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\obj\Debug\netcoreapp2.1\OddLines.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\obj\Debug\netcoreapp2.1\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\obj\Debug\netcoreapp2.1\OddLines.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\obj\Debug\netcoreapp2.1\OddLines.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\obj\Debug\netcoreapp2.1\OddLines.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\OddLines\obj\Debug\netcoreapp2.1\OddLines.pdb

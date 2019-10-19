@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\bin\Debug\netcoreapp2.1\LineNumbers.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesAndDirectories\StreamsFilesDirectories\LineNumbers\obj\Debug\netcoreapp2.1\LineNumbers.pdb
