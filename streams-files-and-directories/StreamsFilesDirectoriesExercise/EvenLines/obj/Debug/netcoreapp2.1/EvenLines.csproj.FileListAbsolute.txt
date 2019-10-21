@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.deps.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.runtimeconfig.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.runtimeconfig.dev.json
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\bin\Debug\netcoreapp2.1\EvenLines.pdb
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.dll
+C:\Users\User\Desktop\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\EvenLines\obj\Debug\netcoreapp2.1\EvenLines.pdb
