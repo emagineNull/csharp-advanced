@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\bin\Debug\netcoreapp2.1\FullDirectoryTraversal.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\bin\Debug\netcoreapp2.1\FullDirectoryTraversal.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\bin\Debug\netcoreapp2.1\FullDirectoryTraversal.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\bin\Debug\netcoreapp2.1\FullDirectoryTraversal.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\bin\Debug\netcoreapp2.1\FullDirectoryTraversal.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\obj\Debug\netcoreapp2.1\FullDirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\obj\Debug\netcoreapp2.1\FullDirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\obj\Debug\netcoreapp2.1\FullDirectoryTraversal.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\obj\Debug\netcoreapp2.1\FullDirectoryTraversal.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\obj\Debug\netcoreapp2.1\FullDirectoryTraversal.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\FullDirectoryTraversal\obj\Debug\netcoreapp2.1\FullDirectoryTraversal.csprojAssemblyReference.cache

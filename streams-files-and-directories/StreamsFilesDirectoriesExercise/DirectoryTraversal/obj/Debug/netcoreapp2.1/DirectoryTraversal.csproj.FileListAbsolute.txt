@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\bin\Debug\netcoreapp2.1\DirectoryTraversal.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\DirectoryTraversal\obj\Debug\netcoreapp2.1\DirectoryTraversal.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\bin\Debug\netcoreapp2.1\CopyBinaryFile.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Streams, Files and Directories\StreamsFilesDirectoriesExercise\CopyBinaryFile\obj\Debug\netcoreapp2.1\CopyBinaryFile.pdb
