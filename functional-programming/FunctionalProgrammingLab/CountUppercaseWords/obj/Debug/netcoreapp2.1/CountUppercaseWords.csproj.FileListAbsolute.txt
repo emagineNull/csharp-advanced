@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.1\CountUppercaseWords.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.1\CountUppercaseWords.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.1\CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.1\CountUppercaseWords.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.1\CountUppercaseWords.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.1\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.1\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.1\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.1\CountUppercaseWords.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.1\CountUppercaseWords.pdb

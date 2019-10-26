@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.1\FilterByAge.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.1\FilterByAge.pdb

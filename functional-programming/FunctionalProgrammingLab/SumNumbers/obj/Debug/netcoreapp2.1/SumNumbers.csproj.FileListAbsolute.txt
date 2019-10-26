@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingLab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.pdb
