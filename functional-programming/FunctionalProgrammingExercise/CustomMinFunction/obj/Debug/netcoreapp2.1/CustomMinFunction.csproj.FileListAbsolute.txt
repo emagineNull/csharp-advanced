@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\netcoreapp2.1\AppliedArithmetics.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\netcoreapp2.1\AppliedArithmetics.pdb

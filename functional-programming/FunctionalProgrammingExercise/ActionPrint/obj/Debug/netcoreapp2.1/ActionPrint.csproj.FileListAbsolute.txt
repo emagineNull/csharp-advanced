@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\bin\Debug\netcoreapp2.1\ActionPrint.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ActionPrint\obj\Debug\netcoreapp2.1\ActionPrint.pdb

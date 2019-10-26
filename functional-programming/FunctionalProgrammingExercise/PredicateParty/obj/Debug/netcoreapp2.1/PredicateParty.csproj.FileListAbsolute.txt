@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp2.1\PredicateParty.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp2.1\PredicateParty.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp2.1\PredicateParty.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp2.1\PredicateParty.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\bin\Debug\netcoreapp2.1\PredicateParty.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\netcoreapp2.1\ListOfPredicates.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\netcoreapp2.1\ListOfPredicates.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\bin\Debug\netcoreapp2.1\KnightsOfHonor.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\KnightsOfHonor\obj\Debug\netcoreapp2.1\KnightsOfHonor.pdb
