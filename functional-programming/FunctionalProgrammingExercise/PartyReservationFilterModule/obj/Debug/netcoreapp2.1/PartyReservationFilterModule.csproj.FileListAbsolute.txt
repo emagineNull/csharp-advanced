@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\netcoreapp2.1\PartyReservationFilterModule.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\netcoreapp2.1\PartyReservationFilterModule.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\netcoreapp2.1\PartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\netcoreapp2.1\PartyReservationFilterModule.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\netcoreapp2.1\PartyReservationFilterModule.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\netcoreapp2.1\PartyReservationFilterModule.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\netcoreapp2.1\PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\netcoreapp2.1\PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\netcoreapp2.1\PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\netcoreapp2.1\PartyReservationFilterModule.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\netcoreapp2.1\PartyReservationFilterModule.pdb

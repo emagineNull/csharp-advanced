@@ -8,3 +8,4 @@ C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\Fu
 C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.AssemblyInfo.cs
 C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.dll
 C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\PredicateParty\obj\Debug\netcoreapp2.1\PredicateParty.csprojAssemblyReference.cache

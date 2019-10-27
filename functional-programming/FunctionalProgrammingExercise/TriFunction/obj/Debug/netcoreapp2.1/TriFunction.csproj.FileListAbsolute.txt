@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\bin\Debug\netcoreapp2.1\TriFunction.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Functional Programming\FunctionalProgrammingExercise\TriFunction\obj\Debug\netcoreapp2.1\TriFunction.pdb
