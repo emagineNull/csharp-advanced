@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Defining Classes\WorkshopLab\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.pdb
