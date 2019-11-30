@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\bin\Debug\netcoreapp2.1\GenericScale.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericScale\obj\Debug\netcoreapp2.1\GenericScale.pdb

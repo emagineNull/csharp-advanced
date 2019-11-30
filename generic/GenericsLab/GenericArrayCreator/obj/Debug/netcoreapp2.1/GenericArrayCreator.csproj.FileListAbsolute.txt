@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\bin\Debug\netcoreapp2.1\GenericArrayCreator.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsLab\GenericArrayCreator\obj\Debug\netcoreapp2.1\GenericArrayCreator.pdb
