@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\bin\Debug\netcoreapp2.1\GenericCountMethodStrings.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodStrings\obj\Debug\netcoreapp2.1\GenericCountMethodStrings.pdb

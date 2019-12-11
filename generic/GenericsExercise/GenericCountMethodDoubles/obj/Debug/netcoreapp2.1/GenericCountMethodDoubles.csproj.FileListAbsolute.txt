@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\GenericCountMethodDoubles.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\GenericCountMethodDoubles.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\bin\Debug\netcoreapp2.1\GenericBoxOfInteger.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericBoxOfInteger\obj\Debug\netcoreapp2.1\GenericBoxOfInteger.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.pdb

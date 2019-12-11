@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.pdb

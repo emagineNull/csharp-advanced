@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\GenericSwapMethodStrings.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\GenericSwapMethodStrings.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\GenericSwapMethodStrings.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\GenericSwapMethodStrings.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Generics\GenericsExercise\GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\GenericSwapMethodStrings.pdb
