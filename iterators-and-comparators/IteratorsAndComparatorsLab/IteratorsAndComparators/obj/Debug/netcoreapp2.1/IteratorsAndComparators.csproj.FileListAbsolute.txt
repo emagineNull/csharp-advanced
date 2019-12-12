@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsLab\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
