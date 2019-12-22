@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\bin\Debug\netcoreapp2.1\Froggy.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\bin\Debug\netcoreapp2.1\Froggy.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\bin\Debug\netcoreapp2.1\Froggy.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\bin\Debug\netcoreapp2.1\Froggy.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\obj\Debug\netcoreapp2.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\obj\Debug\netcoreapp2.1\Froggy.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\obj\Debug\netcoreapp2.1\Froggy.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\Froggy\obj\Debug\netcoreapp2.1\Froggy.pdb

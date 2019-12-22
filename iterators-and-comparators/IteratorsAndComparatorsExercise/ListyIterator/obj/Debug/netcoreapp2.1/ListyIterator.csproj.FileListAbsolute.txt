@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.pdb

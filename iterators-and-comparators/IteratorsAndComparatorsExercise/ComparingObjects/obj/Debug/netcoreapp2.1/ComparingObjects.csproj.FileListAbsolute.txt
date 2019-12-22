@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Iterators and Comparators\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.pdb
