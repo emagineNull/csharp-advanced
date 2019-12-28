@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\bin\Debug\netcoreapp2.1\GreedyAlgoSumCoins.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\bin\Debug\netcoreapp2.1\GreedyAlgoSumCoins.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\bin\Debug\netcoreapp2.1\GreedyAlgoSumCoins.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\bin\Debug\netcoreapp2.1\GreedyAlgoSumCoins.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\bin\Debug\netcoreapp2.1\GreedyAlgoSumCoins.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\obj\Debug\netcoreapp2.1\GreedyAlgoSumCoins.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\obj\Debug\netcoreapp2.1\GreedyAlgoSumCoins.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\obj\Debug\netcoreapp2.1\GreedyAlgoSumCoins.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\obj\Debug\netcoreapp2.1\GreedyAlgoSumCoins.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\GreedyAlgoSumCoins\obj\Debug\netcoreapp2.1\GreedyAlgoSumCoins.pdb

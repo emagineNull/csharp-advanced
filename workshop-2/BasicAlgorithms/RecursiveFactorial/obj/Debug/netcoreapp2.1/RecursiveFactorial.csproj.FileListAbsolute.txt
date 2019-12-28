@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp2.1\RecursiveFactorial.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp2.1\RecursiveFactorial.pdb

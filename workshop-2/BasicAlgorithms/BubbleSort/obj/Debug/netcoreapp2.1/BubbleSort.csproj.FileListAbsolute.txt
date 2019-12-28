@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\bin\Debug\netcoreapp2.1\BubbleSort.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BubbleSort\obj\Debug\netcoreapp2.1\BubbleSort.pdb

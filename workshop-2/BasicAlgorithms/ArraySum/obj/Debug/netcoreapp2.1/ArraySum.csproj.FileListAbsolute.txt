@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\bin\Debug\netcoreapp2.1\ArraySum.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\bin\Debug\netcoreapp2.1\ArraySum.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\bin\Debug\netcoreapp2.1\ArraySum.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\bin\Debug\netcoreapp2.1\ArraySum.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\bin\Debug\netcoreapp2.1\ArraySum.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\obj\Debug\netcoreapp2.1\ArraySum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\obj\Debug\netcoreapp2.1\ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\obj\Debug\netcoreapp2.1\ArraySum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\obj\Debug\netcoreapp2.1\ArraySum.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\obj\Debug\netcoreapp2.1\ArraySum.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\ArraySum\obj\Debug\netcoreapp2.1\ArraySum.pdb

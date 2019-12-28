@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgorithms\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.pdb
