@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\bin\Debug\netcoreapp2.1\SetCover.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\bin\Debug\netcoreapp2.1\SetCover.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\bin\Debug\netcoreapp2.1\SetCover.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\bin\Debug\netcoreapp2.1\SetCover.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\bin\Debug\netcoreapp2.1\SetCover.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\obj\Debug\netcoreapp2.1\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\obj\Debug\netcoreapp2.1\SetCover.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\obj\Debug\netcoreapp2.1\SetCover.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\obj\Debug\netcoreapp2.1\SetCover.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\obj\Debug\netcoreapp2.1\SetCover.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SetCover\bin\Debug\netcoreapp2.1\SetCover.dll.config

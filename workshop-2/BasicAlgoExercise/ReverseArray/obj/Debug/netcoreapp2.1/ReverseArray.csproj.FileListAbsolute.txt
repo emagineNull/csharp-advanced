@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.pdb

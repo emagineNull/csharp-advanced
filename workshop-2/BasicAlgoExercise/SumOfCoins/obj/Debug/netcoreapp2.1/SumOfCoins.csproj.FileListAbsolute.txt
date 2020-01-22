@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\bin\Debug\netcoreapp2.1\SumOfCoins.deps.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\bin\Debug\netcoreapp2.1\SumOfCoins.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\bin\Debug\netcoreapp2.1\SumOfCoins.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\bin\Debug\netcoreapp2.1\SumOfCoins.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\bin\Debug\netcoreapp2.1\SumOfCoins.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\obj\Debug\netcoreapp2.1\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\obj\Debug\netcoreapp2.1\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\obj\Debug\netcoreapp2.1\SumOfCoins.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\obj\Debug\netcoreapp2.1\SumOfCoins.dll
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\obj\Debug\netcoreapp2.1\SumOfCoins.pdb
+C:\Users\User\Desktop\stuff\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\SumOfCoins\obj\Debug\netcoreapp2.1\SumOfCoins.csprojAssemblyReference.cache

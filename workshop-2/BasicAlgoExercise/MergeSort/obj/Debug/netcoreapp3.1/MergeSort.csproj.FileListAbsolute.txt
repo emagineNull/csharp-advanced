@@ -1,0 +1,11 @@
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\Workshop 2\BasicAlgoExercise\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
