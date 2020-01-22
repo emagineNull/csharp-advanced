@@ -1,0 +1,11 @@
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.exe
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.deps.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.runtimeconfig.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.runtimeconfig.dev.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\bin\Debug\netcoreapp3.1\ExcelFunctions.pdb
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.AssemblyInfoInputs.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.AssemblyInfo.cs
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\ExcelFunctions\obj\Debug\netcoreapp3.1\ExcelFunctions.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\bin\Debug\netcoreapp3.1\Socks.exe
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\bin\Debug\netcoreapp3.1\Socks.deps.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\bin\Debug\netcoreapp3.1\Socks.runtimeconfig.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\bin\Debug\netcoreapp3.1\Socks.runtimeconfig.dev.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\bin\Debug\netcoreapp3.1\Socks.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\bin\Debug\netcoreapp3.1\Socks.pdb
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\obj\Debug\netcoreapp3.1\Socks.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\obj\Debug\netcoreapp3.1\Socks.AssemblyInfoInputs.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\obj\Debug\netcoreapp3.1\Socks.AssemblyInfo.cs
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\obj\Debug\netcoreapp3.1\Socks.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# Advanced - January 2019\ExamPrepII\ExamPreparation2\Socks\obj\Debug\netcoreapp3.1\Socks.pdb
